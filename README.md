@@ -9,6 +9,7 @@ Display
 =======
 
 If you want to test it, just visite the demo website/facebook app.
+
 http://dotspree-facebook.srvdev02.dotgee.fr/products
 http://apps.facebook.com/dotspree-facebook/
 
