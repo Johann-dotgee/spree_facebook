@@ -35,6 +35,7 @@ Configuration
 =============
 
 If you want the products to be likable only in a facebook app, just go on http://your-website.com/admon/social/edit and check the checkbox `Products likable only in the facebook app`.
+
 If you want the user to be redirected on your website when he tries to look at a product, just set Spree::Config.direct_link to `true`.
 
 
