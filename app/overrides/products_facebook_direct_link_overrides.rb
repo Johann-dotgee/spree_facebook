@@ -10,6 +10,6 @@ Deface::Override.new(
   :virtual_path       => "spree/shared/_products",
   :name               => "products_direct_link_js",
   :insert_after       => "code[erb-silent]:contains('paginated_products.respond_to?(:num_pages)')",
-  :partial            => 'shared/direct_link_js',
+  :partial            => 'spree/shared/direct_link_js',
   :disabled           => false
 )
