@@ -41,6 +41,16 @@ If you want the products to be likable only in a facebook app, just go on http:/
 If you want the user to be redirected on your website when he tries to look at a product, just set Spree::Config.direct_link to `true`.
 
 
+More details
+=============
+
+Take a look at
+
+* https://github.com/Johann-dotgee/spree_profiles
+* https://github.com/Johann-dotgee/spree_social_products/
+* https://github.com/spree/spree_social
+
+
 Testing
 -------
 
