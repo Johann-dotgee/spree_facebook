@@ -5,12 +5,13 @@ Spree Facebook is a gem working with spree_profiles, spree_social and spree_soci
 It allows you do make your spree website social by likable products, facebook authentication, etc.
 
 
-Display
-=======
+Demo
+=====
 
 If you want to test it, just visite the demo website/facebook app.
 
 http://dotspree-facebook.srvdev02.dotgee.fr/products
+
 http://apps.facebook.com/dotspree-facebook/
 
 Installation
